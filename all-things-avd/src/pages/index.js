@@ -23,9 +23,7 @@ function HomepageHeader() {
             Get started!
           </Link>
         </div>
-        <div>
-        <img src="/img/gtfs-to-html-logo.svg" style="max-width:150px" alt=""/>
-        </div>
+   
       </div>
     </header>
   );
