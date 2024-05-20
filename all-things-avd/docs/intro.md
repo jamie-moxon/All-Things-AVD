@@ -2,46 +2,24 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# All Things Azure Virtual Desktop
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Welcome to All Things AVD, a community led site to help you deploy, manage and optimise Azure Virtual Desktop for your organisation or your clients. 
 
-## Getting Started
+![All things Azure Virtual Desktop Logo](/img/allthingsavdintro.png)
 
-Get started by **creating a new site**.
+## What is All Things AVD?
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+All things AVD was created for IT Pros and Cloud Engineers to have a centralised source of information, guides, tips and tricks for deploying, Managing and optimising Azure Virtual Desktop.
 
-### What you'll need
+What we aren't over here is a replacement for Microsoft Learn Docs. That is a great place to learn the theory and technology behind Azure Virtual Desktop. What we provide are excellent guides and tools from out there in the Microsoft and technology communities.
 
-- [Node.js](https://nodejs.org/en/download/) version 18.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+## Why did I launch All Things AVD?
 
-## Generate a new site
+As a cloud Engineer deploying Azure Virtual Desktop for clients, I have found it difficult finding a central repository for anything Azure Virtual Desktop. There are lots of great sources of information out there, but nothing has been centralised, until All Things AVD!
 
-Generate a new Docusaurus site using the **classic template**.
+I hope you find All Things AVD easy to use and navigate through the list of tips, tricks and tools you can use in your environment. 
 
-The classic template will automatically be added to your project after you run the command:
+Thank you
 
-```bash
-npm init docusaurus@latest my-website classic
-```
-
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
-
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+Jamie
