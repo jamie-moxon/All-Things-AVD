@@ -64,7 +64,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: 'img/docusaurus-social-card.jpg',
+      image: 'img/allthingsavd.png',
       algolia: {
         // The application ID provided by Algolia
         appId: 'J2B6M8Q5WM',
@@ -104,9 +104,27 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'Guides',
+            label: 'Welcome',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
+          {
+            type: 'doc',
+            docId: '/category/deployment',
+            position: 'left',
+            label: 'Deploy',
+          },
+          {
+            type: 'doc',
+            docId: '/category/secure',
+            position: 'left',
+            label: 'Secure',
+          },
+          {
+            type: 'doc',
+            docId: '/category/optimise',
+            position: 'left',
+            label: 'Optimise',
+          },
+          {to: '/blog', label: 'Blog', position: 'right'},
           {
             href: 'https://github.com/jamie-moxon/all-things-avd',
             label: 'GitHub',
