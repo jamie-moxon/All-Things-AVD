@@ -2,10 +2,10 @@
 slug: first-blog-post
 title: First Blog Post
 authors:
-  name: Gao Wei
-  title: Docusaurus Core Team
-  url: https://github.com/wgao19
-  image_url: https://github.com/wgao19.png
+  name: Jamie Moxon
+  title: Senior Engineer - Shaping Cloud
+  url: https://github.com/jamie-moxon
+  image_url: https://avatars.githubusercontent.com/u/10709693?v=4
 tags: [hola, docusaurus]
 ---
 

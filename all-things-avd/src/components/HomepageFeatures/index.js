@@ -4,28 +4,17 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    title: 'Tips & Tricks',
+    Svg: require('@site/static/img/undraw_setup_wizard_re_nday.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Tips and Tricks for Deploying, managing and optimising Azure Virtual Desktop
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
-    description: (
-      <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
-      </>
-    ),
-  },
-  {
-    title: 'Powered by React',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    title: 'Tools and apps',
+    Svg: require('@site/static/img/undraw_code_review_re_woeb.svg').default,
     description: (
       <>
         Extend or customize your website layout by reusing React. Docusaurus can
@@ -33,6 +22,16 @@ const FeatureList = [
       </>
     ),
   },
+  {
+    title: 'Optimise your environment',
+    Svg: require('@site/static/img/undraw_switches_1js3.svg').default,
+    description: (
+      <>
+        An optimised Azure Virtual Desktop environment, is a happy one! For both your users and your finance department.
+      </>
+    ),
+  },
+  
 ];
 
 function Feature({Svg, title, description}) {
