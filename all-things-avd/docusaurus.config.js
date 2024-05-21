@@ -67,12 +67,12 @@ const config = {
       image: 'img/allthingsavd.png',
       algolia: {
         // The application ID provided by Algolia
-        appId: 'J2B6M8Q5WM',
+        appId: 'Z0ULBIQH6',
   
         // Public API key: it is safe to commit it
-        apiKey: 'ab03ff61e5fe86ac44e198abdba8a3ed',
+        apiKey: '52d60d837f7e1589caed50a0f522f51',
   
-        indexName: 'All-things-avd',
+        indexName: 'allthingsavd',
   
         // Optional: see doc section below
         contextualSearch: true,
@@ -148,8 +148,8 @@ const config = {
             title: 'Community',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                label: 'Jamie Moxon',
+                href: 'https://jamiemoxon.tech',
               },
               {
                 label: 'Discord',

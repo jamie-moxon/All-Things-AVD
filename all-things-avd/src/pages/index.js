@@ -34,7 +34,7 @@ export default function Home() {
   return (
     <Layout
       title={`All Things AVD!`}
-      description="Description will go into a meta tag in <head />">
+      description="Community driven guides for AVD">
       <HomepageHeader />
       <main>
         <HomepageFeatures />
