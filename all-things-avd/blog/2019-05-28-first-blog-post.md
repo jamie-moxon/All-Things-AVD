@@ -6,7 +6,7 @@ authors:
   title: Senior Engineer - Shaping Cloud
   url: https://github.com/jamie-moxon
   image_url: https://avatars.githubusercontent.com/u/10709693?v=4
-tags: [hola, docusaurus]
+tags: []
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet
