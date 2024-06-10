@@ -1,0 +1,9 @@
+{
+    "label": "Infrastructure As Code",
+    "position": 4,
+    "link": {
+      "type": "generated-index",
+      "description": "Best Practice, guides and tools to deploy AVD with Infrastructure As Code (iAC)"
+    }
+  }
+  
