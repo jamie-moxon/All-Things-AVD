@@ -67,7 +67,7 @@ const config = {
       image: 'img/allthingsavd.png',
       algolia: {
         // The application ID provided by Algolia
-        appId: 'Z0ULBIQH6',
+        appId: 'Z0ULBIQH6U',
   
         // Public API key: it is safe to commit it
         apiKey: '52d60d837f7e1589caed50a0f522f51',
