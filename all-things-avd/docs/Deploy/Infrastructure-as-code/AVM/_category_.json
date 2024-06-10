@@ -1,0 +1,9 @@
+{
+    "label": "Azure Verified Modules",
+    "position": 4,
+    "link": {
+      "type": "generated-index",
+      "description": "Best Practice, guides and tools to deploy AVD with Azure Bicep"
+    }
+  }
+  
