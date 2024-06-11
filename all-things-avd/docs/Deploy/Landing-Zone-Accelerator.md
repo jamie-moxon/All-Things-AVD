@@ -18,3 +18,14 @@ For more information on the Landing Zone Accelerator, visit Microsoft Docs here:
 
 - AVD Accelerator Lessons Learned - https://azurescholar.cloud/avd-accelerator-lessons-learned
 - A Practical guide to AVD Landing Zone Accelerator - https://speakerdeck.com/pazdedav/a-practical-guide-to-avd-landing-zone-accelerator
+### Videos
+
+#### "Want to Accelerate Azure Virtual Desktop?"
+
+<iframe width="500" height="300" src="https://www.youtube.com/embed/yTbFkQqLGqM" title="Want To Accelerate Azure Virtual Desktop?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+#### Learn Live - How To Get Started FAST Azure Virtual Desktop for Beginners
+
+
+<iframe width="500" height="300" src="https://www.youtube.com/embed/7fxopmNl5C0" title="Learn Live - How To Get Started FAST Azure Virtual Desktop for Beginners" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
