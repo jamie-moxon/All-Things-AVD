@@ -17,8 +17,7 @@ const FeatureList = [
     Svg: require('@site/static/img/undraw_code_review_re_woeb.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        A source of the best tools and apps for an Azure Virtual Desktop environment.
       </>
     ),
   },
