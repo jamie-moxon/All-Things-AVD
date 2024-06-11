@@ -70,7 +70,7 @@ const config = {
         appId: 'Z0ULBIQH6U',
   
         // Public API key: it is safe to commit it
-        apiKey: '52d60d837f7e1589caed50a0f522f51',
+        apiKey: 'ce8154e1a8b0bba3a5b1dbc01c85b9b8',
   
         indexName: 'allthingsavd',
   
