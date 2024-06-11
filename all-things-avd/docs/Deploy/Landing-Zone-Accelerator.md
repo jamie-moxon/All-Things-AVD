@@ -8,7 +8,7 @@ sidebar_position: 3
 
 The Microsoft Azure Virtual Desktop landing zone accelerator provides a specific architectural approach and reference implementation for preparing landing zone subscriptions for an **enterprise** Azure Virtual Desktop deployment.
 
-This Azure Virtual Desktop solution is open source. You can adapt its templates to create an architecture that meets your needs. This article's guidance includes design considerations for building an enterprise-ready Azure Virtual Desktop deployment.
+This Azure Virtual Desktop solution is open source. You can adapt its templates to create an architecture that meets your needs.
 
 ### Microsoft Documentation
 
